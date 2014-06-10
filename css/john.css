@@ -1,0 +1,16 @@
+.planHeader {
+  padding-left: 0;
+  text-align: center;
+}
+
+.planBody li { text-align: center; }
+
+.shortBtn a {
+  font-family: 'Helvetica Neue';
+  padding: 12px 15px;
+  font-size: 15px;
+}
+
+.td h3 {
+  font-family: 'playfair_displayitalic', Arial, sans-serif !important;
+}
