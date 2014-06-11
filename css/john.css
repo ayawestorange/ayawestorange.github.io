@@ -14,3 +14,9 @@
 .td h3 {
   font-family: 'playfair_displayitalic', Arial, sans-serif !important;
 }
+
+.caption h1 {
+  font-family: 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: bold;
+}
