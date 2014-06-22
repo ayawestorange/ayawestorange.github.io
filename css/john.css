@@ -24,3 +24,15 @@
 .parallax {
   background: rgb(12, 59, 110);
 }
+
+.logo-aya {
+  background: url(../images/logo.png);
+  width: 487px;
+  height: 144px;
+  z-index: 1000;
+  margin: 0 auto;
+}
+
+.caption {
+  top: 30%;
+}
