@@ -22,7 +22,7 @@
 }
 
 .parallax {
-  background: rgb(12, 59, 110);
+  background: #0b396c;
 }
 
 .logo-aya {
@@ -39,4 +39,8 @@
 
 .switchedHeader nav#mainNav li a.active:after {
   display: none; /* hide nav dot */
+}
+
+.mainSlider .slides li:before {
+  display: none; /* overlay */
 }
