@@ -36,3 +36,7 @@
 .caption {
   top: 30%;
 }
+
+.switchedHeader nav#mainNav li a.active:after {
+  display: none; /* hide nav dot */
+}
